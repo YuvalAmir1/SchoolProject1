@@ -16,7 +16,7 @@ namespace SchoolProject1.Pages
 			Users.Add("Gamer", ("42069", true));
 			Users.Add("Bob", ("123456", false));
 			Users.Add("Bobby", ("102030405060", false));
-			Users.Add("Hamai", ("BadPassword321", false));
+			Users.Add("Hami", ("BadPassword321", false));
 			Application["users"] = Users;
 
 			Application["visitorsCount"] = 0;
