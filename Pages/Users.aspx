@@ -8,7 +8,7 @@
 
 		td, th {
 			border-collapse: collapse;
-			font-size: 86px;
+			font-size: 75px;
 		}
 
 		tr:nth-child(even) {
