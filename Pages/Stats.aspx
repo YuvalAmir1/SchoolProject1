@@ -8,7 +8,7 @@
 
         td, th {
             border-collapse: collapse;
-            font-size: 75px;
+            font-size: 70px;
         }
 
         td {
